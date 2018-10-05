@@ -1,0 +1,15 @@
+Input 
+a word
+
+Process
+1. Initializing the array
+2. randomly choose a word
+3. prompt the user to make a word using letters one letter at a time 
+4. check if the user's guess is letter
+5. keep track of the users guess
+6. prompt the user how many guesses are left after each guess
+7. when the user's guess exceeds five make them lose the game
+8. check if the users guess is write or wrong 
+9. if the user guess is right show all the words he/she guessed so far 
+   and blank letters they have not guessed yet
+   and let them know they won and end the game
